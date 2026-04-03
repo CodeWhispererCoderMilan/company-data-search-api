@@ -1,0 +1,17 @@
+{
+  "name": "search-company-profile",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test-api.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.19.1",
+    "csv-parse": "^6.2.1"
+  }
+}
